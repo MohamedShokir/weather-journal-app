@@ -1,6 +1,6 @@
 # Weather-Journal App Project
 
-Udacity second project solution of the FrontEnd nano degree program.
+Udacity: second project's solution of the FrontEnd nano degree program.
 
 ## Overview
 
